@@ -1,0 +1,6 @@
+.git/
+.vscode/
+docs/
+.icon.png
+.TODO
+*.o
